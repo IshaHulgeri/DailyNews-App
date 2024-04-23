@@ -1,0 +1,112 @@
+{
+  "status": "ok",
+  "totalResults": 11,
+  "articles": [
+    {
+      "source": { "id": "la-repubblica", "name": "La Repubblica" },
+      "author": "La Repubblica",
+      "title": "Parigi, le forze speciali circondano il consolato iraniano dove un uomo minacciava di farsi esplodere",
+      "description": "Sosteneva di voler vendicare il fratello. È stato fermato l'uomo che si era asserragliato nel consolato iraniano di Parigi, minacciando di farsi esplodere. Sono intervenuti i reparti speciali. La zona intorno alla sede diplomatica, in rue de Fresnel nel sedic…",
+      "url": "https://video.repubblica.it/mondo/parigi-le-forze-speciali-circondano-il-consolato-iraniano-dove-un-uomo-minacciava-di-farsi-esplodere/467336/468293",
+      "urlToImage": "https://www.repstatic.it/video/photo/2024/04/19/951914/951914-thumb-full-720-1904_consolato_iran_parigi.jpg",
+      "publishedAt": "2024-04-19T14:28:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Parisa Hafezi, James Mackenzie",
+      "title": "Iran Israel attack: Tehran signals no retaliation against Tel Aviv after drones attack Iran",
+      "description": "The limited scale of the attack and Iran’s muted response appeared to signal a successful effort by diplomats to avert all-out war.",
+      "url": "http://www.afr.com/world/middle-east/tehran-signals-no-retaliation-against-israel-after-drones-attack-iran-20240419-p5flao",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2922%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_172%2C$y_67/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/fbf211103d8fd7796c2f78c35013018ed714face",
+      "publishedAt": "2024-04-19T12:13:38Z",
+      "content": "Jonathan Lord, head of the Middle East security program at the Centre for a New American Security, a U.S. think tank, said Irans response seems to indicate that Iran is seeking to step down off the l… [+4765 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Manish Singh",
+      "title": "Fintech CRED secures in-principle approval for payment aggregator license | TechCrunch",
+      "description": "CRED has received the in-principle approval for payment aggregator license in a boost to the Indian fintech startup that could help it better serve its CRED has received the in-principle approval for its payment aggregator license in a boost to the Indian fin…",
+      "url": "https://techcrunch.com/2024/04/19/fintech-cred-secures-in-principle-approval-for-payment-aggregator-license/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/cred-app.jpg?resize=1200,554",
+      "publishedAt": "2024-04-19T08:48:05Z",
+      "content": "CRED has received the in-principle approval for payment aggregator license in a boost to the Indian fintech startup that could help it better serve its customers and launch new products and experimen… [+1274 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Michael Read",
+      "title": "Interest rates: The global narrative just been rewritten, as the Federal Reserve, RBA and other major central banks hold off on rate cuts",
+      "description": "Treasurer Jim Chalmers and the other attendees at this week’s meeting of the G20 finance ministers and central bank governors may be suffering from whiplash.",
+      "url": "http://www.afr.com/policy/economy/the-global-narrative-on-rate-cuts-has-just-been-rewritten-20240418-p5fkvm",
+      "urlToImage": "https://static.ffx.io/images/$zoom_1.0347%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_analysis_no_age_social_wm/617d8d7b95569df0bd303913241406ae3422113f",
+      "publishedAt": "2024-04-19T03:34:43Z",
+      "content": "If higher inflation does persist, he added, we can maintain the current level of [interest rates] for as long as needed. \r\nThe question for economists is whether Australias economic outlook resembles… [+3582 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Jamison Hensley",
+      "title": "NFL finds 'insufficient evidence' to punish Ravens' Zay Flowers - ESPN",
+      "description": "The NFL will not discipline the Ravens' Zay Flowers after he was involved in a domestic violence investigation earlier this year.",
+      "url": "https://www.espn.com/nfl/story/_/id/39970859/nfl-finds-insufficient-evidence-punish-ravens-zay-flowers",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0418%2Fr1320841_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-04-18T21:11:16Z",
+      "content": "OWINGS MILLS, Md. -- Baltimore Ravens wide receiver Zay Flowers will not be disciplined by the NFL after being involved in a domestic violence investigation earlier this year, the league said in a st… [+889 chars]"
+    },
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Charlie Hall",
+      "title": "Pathfinder’s War of Immortals will introduce new character classes",
+      "description": "Pathfinder’s War of Immortals includes two big books and multiple campaigns. Plus its new character classes are the first to be built without the OGL.",
+      "url": "https://www.polygon.com/tabletop-games/24133989/pathfinders-war-of-immortals-new-character-classes-ogl",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gd1o0Dbg9D7TBw3hxbNVdeFue9I=/0x24:1200x652/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25407009/war_of_immortals_cover_image.jpg",
+      "publishedAt": "2024-04-18T17:05:24Z",
+      "content": "Paizo, fresh off a highly-anticipated refresh of Pathfinders2nd edition ruleset, announced some big moves for the games ongoing narrative on Tuesday. The War of Immortals meta-event will kill a god, … [+3255 chars]"
+    },
+    {
+      "source": { "id": "the-next-web", "name": "The Next Web" },
+      "author": "Siôn Geschwindt",
+      "title": "Mobility giant Bolt adopts self-driving Starship robots for food delivery",
+      "description": "Bolt plans to roll out thousands of the robots across multiple countries, starting in its home city of Tallinn later this year.",
+      "url": "http://thenextweb.com/news/mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2Fbolt-starship-robot-delivery.jpg&signature=c902ce701ce95e20f6fd703a50ad52ca",
+      "publishedAt": "2023-06-22T09:17:15Z",
+      "content": "European ride-hailing firm Bolt will start using self-driving robots to deliver customers food as part of a new partnership with fellow Estonian company Starship Technologies, announced yesterday.  \r… [+2447 chars]"
+    },
+    {
+      "source": { "id": "the-globe-and-mail", "name": "The Globe And Mail" },
+      "author": "Molly Hayes",
+      "title": "OPP officers provide testimony at inquest into 2015 triple murders",
+      "description": "Four OPP officers addressed difficulties they had while discovering three deaths in 2015 connected by intimate partner violence",
+      "url": "https://www.theglobeandmail.com/canada/article-opp-provide-testimony-at-inquest-into-2015-triple-murders/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/B_0AHIFyolFcOl24Dt2Q82GJ_f4=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/BPRCBGA52VCDHGHL2GMDLH2QSA.JPG",
+      "publishedAt": "2022-06-16T01:18:17Z",
+      "content": "A real estate billboard of slain Anastasia Kuzyk along Highway 60 in Wilno, Ont., in 2015.Dave Chan/The Globe and Mail\r\nAs soon as she heard Anastasia Kuzyks address read out over her police radio on… [+4544 chars]"
+    },
+    {
+      "source": { "id": "nfl-news", "name": "NFL News" },
+      "author": null,
+      "title": "NFL injury updates, latest league news from Thursday, Jan. 20",
+      "description": "The Tampa Bay Buccaneers saw multiple offensive starters participate in practice Thursday, but are still waiting on their right tackle to get back on the field. Also, the latest NFL roster and injury news from Thursday.",
+      "url": "https://www.nfl.com/news/nfl-injury-updates-latest-league-news-from-thursday-jan-20",
+      "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/nu2ombmssrq178clieou",
+      "publishedAt": "2022-01-20T19:22:41.693224Z",
+      "content": "The Tampa Bay Buccaneers saw multiple offensive starters participate in practice Thursday, but are still waiting on their right tackle to get back on the field.\r\nBuccaneers center Ryan Jensen and run… [+496 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Times Of India",
+      "title": "PBKS vs MI Live Score, IPL 2021: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways",
+      "description": "IPL Live Score: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways. Stay with TOI to get IPL live score, playing 11, scorecard, highlights and ball by ball score updates of the 17th IPL match between Punjab Kings and Mumbai Indians.",
+      "url": "http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82214950,width-1070,height-580,imgsize-157009,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T05:44:49Z",
+      "content": "Ravi Bishnoi return on the cards?\r\nDeepak Hooda showed what he is capable of, but greater consistency would be needed from him if the team has to prosper. They bet on Australian pace imports Jhye Ric… [+3131 chars]"
+    }
+  ]
+}
