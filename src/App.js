@@ -1,16 +1,24 @@
-import React, { Component } from "react";
+import React from "react";
 import Navbar from "./components/Navbar";
 import News from "./components/News";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
-export class App extends Component {
-  render() {
-    return (
+const App = () => {
+  return (
+    <Router>
       <div>
         <Navbar />
-        <News pageSize={5} />
+        <Routes>
+          <Route path="/:categoryName" element={<News />} />
+          <Route path="/" element={<Home />} />
+        </Routes>
       </div>
-    );
-  }
-}
+    </Router>
+  );
+};
+
+const Home = () => {
+  return <h1>Welcome to DailyNews</h1>;
+};
 
 export default App;
