@@ -22,6 +22,10 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  position: sticky; /* Make the header sticky */
+  top: 0; /* Stick it to the top */
+  z-index: 1000; /* Ensure it appears above other content */
+  padding-top: 20px; /* Add some padding to separate it from the navbar */
 }
 
 .App-link {
