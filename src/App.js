@@ -13,7 +13,18 @@ const App = () => {
   const [progress, setProgress] = useState(0);
 
   const Home = () => {
-    return <h1>Welcome to DailyNews</h1>;
+    return (
+      <div style={styles.welcomeContainer}>
+        <div style={styles.marquee}>
+          <div style={styles.welcomeTitle}>Welcome to DailyNews</div>
+        </div>
+        <div style={styles.marquee}>
+          <div style={styles.welcomeSubtitle}>
+            Start exploring the latest news
+          </div>
+        </div>
+      </div>
+    );
   };
 
   const CategoryNews = () => {
@@ -21,6 +32,42 @@ const App = () => {
     return (
       <News setProgress={setProgress} pageSize={5} category={categoryName} />
     );
+  };
+
+  const styles = {
+    welcomeContainer: {
+      textAlign: "center",
+      display: "flex",
+      flexDirection: "column",
+      justifyContent: "center",
+      alignItems: "center",
+      height: "100vh",
+      backgroundColor: "#f8f9fa",
+      overflow: "hidden",
+    },
+    marquee: {
+      whiteSpace: "nowrap",
+      overflow: "hidden",
+      boxSizing: "border-box",
+      display: "block",
+      width: "100%",
+      animation: "marquee 2s linear forwards",
+    },
+    welcomeTitle: {
+      fontSize: "5rem",
+      fontWeight: "bold",
+      display: "inline-block",
+    },
+    welcomeSubtitle: {
+      fontSize: "3rem",
+      marginTop: "1rem",
+      display: "inline-block",
+    },
+    "@keyframes marquee": {
+      "0%": { transform: "translateX(-100%)" },
+      "50%": { transform: "translateX(0%)" },
+      "100%": { transform: "translateX(0%)" },
+    },
   };
 
   return (
